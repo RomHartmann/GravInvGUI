@@ -1,0 +1,1 @@
+The GUI for the gravity inversion program called GravInvGUI
